@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #e2d8e7;
+}
+
+h1 {
+    margin: 0;
+}
+
+#cabecalho{
+    background-color: #21022d;
+    text-align: center;
+    color: white;
+}
+
+.corpo-da-pagina{
+    background-color: #e2d8e7;
+
+
+}
+
+.vitaminas img{
+    width: 150px;
+    height: 150px;
+    margin: 64px;
+}
+
+.vitaminas{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #21022d;
+    background-color: #e2d8e7;
+
+}
+
+.vitaminas-zero-lactose{
+    background-color: #e2d8e7;
+}
+
+.rodape{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+}
+
+.vitaminas-zero-lactose img{
+    width: 600px;
+    height: 300px;
+
+}
+
+
+
